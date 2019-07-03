@@ -2,6 +2,17 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
-## [2019-6-25]
+## ✍ [2019-6-25]
 
 - Initial release
+
+## ✍ [2019-7-3]
+
+### Added
+
+- image
+  - 新增`5-react的几大更新阶段.png`
+- visio
+  - 新增`7-react的几大更新阶段.vsdx`
+- issue(✨)
+  - 引进`issue`区块, 在`issue`做简单的撰文总结
