@@ -47,6 +47,7 @@
 | react从调度到更新的简单流程 | [issue#2](https://github.com/ddzy/react-reading-sources/issues/2) |
 | react的几大更新阶段         | [issue#3](https://github.com/ddzy/react-reading-sources/issues/3) |
 | Fiber对象的几个重要属性     | [issue#4](https://github.com/ddzy/react-reading-sources/issues/4) |
+| ReactDOM.render流程再梳理   | [issue#5](https://github.com/ddzy/react-reading-sources/issues/5) |
 
 ## History
 
