@@ -23,3 +23,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - issue
   - 新增文章`ReactDOM.render流程再梳理`
+
+## ✍ [2019-7-7]
+
+### Changed
+
+- xmind
+  - 更新`1-react各大节点之间的关系`
