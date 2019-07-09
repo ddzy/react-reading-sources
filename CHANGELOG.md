@@ -30,3 +30,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - xmind
   - 更新`1-react各大节点之间的关系`
+
+## ✍ [2019-7-9]
+
+### Added
+
+- issue
+  - 新增文章`fiber的updateQueue的基本结构`
+
+### Changed
+
+- xmind
+  - 更新`1-react各大节点之间的关系`
