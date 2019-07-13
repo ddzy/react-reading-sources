@@ -42,3 +42,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - xmind
   - 更新`1-react各大节点之间的关系`
+
+## ✍ [2019-7-13]
+
+### Added
+
+- issue
+  - 新增文章`fiber.tag重要类型汇总`
+  - 新增文章`函数组件(FunctionComponent)的更新`
