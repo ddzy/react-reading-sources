@@ -50,3 +50,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - issue
   - 新增文章`fiber.tag重要类型汇总`
   - 新增文章`函数组件(FunctionComponent)的更新`
+
+## ✍ [2019-7-16]
+
+### Added
+
+- issue
+  - 新增文章`hooks存储结构`
+  - 新增文章`hooks运行机制`
