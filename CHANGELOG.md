@@ -58,3 +58,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - issue
   - 新增文章`hooks存储结构`
   - 新增文章`hooks运行机制`
+
+## ✍ [2019-7-17]
+
+### Added
+
+- 新增`.gitattributes`文件
