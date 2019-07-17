@@ -1,0 +1,5 @@
+*.md linguist-language=JavaScript
+*.png linguist-language=JavaScript
+*.vsdx linguist-language=JavaScript
+*.xmind linguist-language=JavaScript
+*.html linguist-language=JavaScript
