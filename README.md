@@ -25,6 +25,7 @@
 | 3-concurrent                    | [链接](./images/3-concurrent.png)                    |
 | 4-ReactDOM.render流程           | [链接](./images/4-ReactDOM.render流程.png)           |
 | 5-react的几大更新阶段           | [链接](./images/5-react的几大更新阶段.png)           |
+| 6-hooks是如何存储的             | [链接](./images/6-hooks是如何存储的.png)             |
 
 > **visio**
 
@@ -37,6 +38,7 @@
 | 5-react的三大工作状态           | [链接](./visio/5-react的三大工作状态.vsdx)           |
 | 6-expirationTime的五种类型      | [链接](./visio/6-expirationTime的五种类型.vsdx)      |
 | 7-react的几大更新阶段           | [链接](./visio/7-react的几大更新阶段.vsdx)           |
+| 8-hooks时如何存储的             | [链接](./visio/8-hooks是如何存储的.vsdx)             |
 
 > **xmind**
 
