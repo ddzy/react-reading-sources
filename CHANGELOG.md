@@ -73,3 +73,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
   - 新增`hooks是如何存储的`
 - images
   - 新增`hooks是如何存储的`
+
+## ✍ [2019-9-30]
+
+### Changed
+
+- xmind
+  - 更新`1-react各大节点之间的关系`
+
+## ✍ [2019-10-2]
+
+### Added
+
+- visio
+  - 新增`一句话总结更新流程`
+- issue
+  - 新增`渲染时的优化策略`

@@ -39,6 +39,7 @@
 | 6-expirationTime的五种类型      | [链接](./visio/6-expirationTime的五种类型.vsdx)      |
 | 7-react的几大更新阶段           | [链接](./visio/7-react的几大更新阶段.vsdx)           |
 | 8-hooks时如何存储的             | [链接](./visio/8-hooks是如何存储的.vsdx)             |
+| 9-一句话总结更新流程            | [链接](./visio/9-一句话总结更新流程.vsdx)            |
 
 > **xmind**
 
@@ -65,6 +66,7 @@
 | 函数组件(`FunctionComponent`)的更新 | [issue#8](https://github.com/ddzy/react-reading-sources/issues/8)   |
 | `hooks`存储结构                     | [issue#10](https://github.com/ddzy/react-reading-sources/issues/10) |
 | `hooks`运行机制                     | [issue#11](https://github.com/ddzy/react-reading-sources/issues/10) |
+| 渲染时的优化策略                    | [issue#12](https://github.com/ddzy/react-reading-sources/issues/12) |
 
 ## History
 
