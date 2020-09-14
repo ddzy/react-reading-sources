@@ -101,3 +101,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - issue
   - 更新文章: `react从调度到更新的简单流程`
+  
+## ✍ [2020-9-14]
+
+### Changed
+
+- 更新文章
