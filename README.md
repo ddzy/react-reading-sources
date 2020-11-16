@@ -26,6 +26,7 @@
 | 4-ReactDOM.render流程           | [链接](./images/4-ReactDOM.render流程.png)           |
 | 5-react的几大更新阶段           | [链接](./images/5-react的几大更新阶段.png)           |
 | 6-hooks是如何存储的             | [链接](./images/6-hooks是如何存储的.png)             |
+| 7-react16生命周期               | [链接](./images/7-react16生命周期.png)               |
 
 > **visio**
 
@@ -40,6 +41,8 @@
 | 7-react的几大更新阶段           | [链接](./visio/7-react的几大更新阶段.vsdx)           |
 | 8-hooks时如何存储的             | [链接](./visio/8-hooks是如何存储的.vsdx)             |
 | 9-一句话总结更新流程            | [链接](./visio/9-一句话总结更新流程.vsdx)            |
+| 10-单链表树状结构               | [链接](./visio/10-单链表树状结构.vsdx)               |
+| 11-react16生命周期              | [链接](./visio/11-react16生命周期.vsdx)              |
 
 > **xmind**
 
@@ -67,6 +70,7 @@
 | `hooks`存储结构                     | [issue#10](https://github.com/ddzy/react-reading-sources/issues/10) |
 | `hooks`运行机制                     | [issue#11](https://github.com/ddzy/react-reading-sources/issues/10) |
 | 渲染时的优化策略                    | [issue#12](https://github.com/ddzy/react-reading-sources/issues/12) |
+| 关于 `React` 的一些疑点思考         | [issue#15](https://github.com/ddzy/react-reading-sources/issues/15) |
 
 ## History
 
