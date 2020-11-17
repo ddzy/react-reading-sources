@@ -27,6 +27,8 @@
 | 5-react的几大更新阶段           | [链接](./images/5-react的几大更新阶段.png)           |
 | 6-hooks是如何存储的             | [链接](./images/6-hooks是如何存储的.png)             |
 | 7-react16生命周期               | [链接](./images/7-react16生命周期.png)               |
+| 8-react组件通信方式             | [链接](./images/8-react组件通信方式.png)             |
+| 9-setState是同步还是异步        | [链接](./images/9-setState是同步还是异步.png)        |
 
 > **visio**
 
@@ -43,6 +45,8 @@
 | 9-一句话总结更新流程            | [链接](./visio/9-一句话总结更新流程.vsdx)            |
 | 10-单链表树状结构               | [链接](./visio/10-单链表树状结构.vsdx)               |
 | 11-react16生命周期              | [链接](./visio/11-react16生命周期.vsdx)              |
+| 12-react组件通信方式            | [链接](./visio/12-react组件通信方式.vsdx)            |
+| 13-setState是同步还是异步       | [链接](./visio/13-setState是同步还是异步.vsdx)       |
 
 > **xmind**
 

@@ -118,3 +118,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
   - 新增 `react16 生命周期`
 - Issue
   - 新增文章: `关于 React 的一些疑点思考`
+
+## ✍ [2020-11-17]
+
+### Added
+
+- Images
+  - 新增 `react 组件通信方式`
+  - 新增 `setState 是同步还是异步`
+- Visio
+  - 新增 `react 组件通信方式`
+  - 新增 `setState 是同步还是异步`
+
+### Changed
+
+- Issue
+  - 更新文章: `关于 React 的一些疑点思考`
