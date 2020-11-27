@@ -134,3 +134,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - Issue
   - 更新文章: `关于 React 的一些疑点思考`
+
+## ✍ [2020-11-27]
+
+### Added
+
+- Issue
+  - 新增译文: `[译] React 为何要使用链表遍历 Fiber 树`
