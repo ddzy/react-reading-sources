@@ -76,6 +76,7 @@
 | 渲染时的优化策略                            | [issue#12](https://github.com/ddzy/react-reading-sources/issues/12) |
 | 关于 `React` 的一些疑点思考                 | [issue#15](https://github.com/ddzy/react-reading-sources/issues/15) |
 | \[译] `React` 为何要使用链表遍历 `Fiber` 树 | [issue#18](https://github.com/ddzy/react-reading-sources/issues/18) |
+| \[译] 使用 requestIdleCallback              | [issue#20](https://github.com/ddzy/react-reading-sources/issues/20) |
 
 ## History
 

@@ -141,3 +141,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - Issue
   - 新增译文: `[译] React 为何要使用链表遍历 Fiber 树`
+
+## ✍ [2020-12-9]
+
+### Added
+
+- Issue
+  - 新增译文: `[译] 使用 requestIdleCallback`
