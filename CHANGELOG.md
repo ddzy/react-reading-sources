@@ -148,3 +148,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - Issue
   - 新增译文: `[译] 使用 requestIdleCallback`
+
+## ✍ [2020-12-12]
+
+### Added
+
+- Issue
+  - 新增译文: `[译] 深度探索 styled-components 工作原理`
